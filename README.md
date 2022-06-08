@@ -1,5 +1,7 @@
 Nama: Rizky Muhammad Iqbal
+
 NIM: 195150307111003
+
 Tugas Akhir Arsitektur Jaringan Terkini – A
 
 1.	Tugas 1
